@@ -8,5 +8,5 @@ else if(num>20){
 }else if(num >30){
     console.log("Number is more then 30")
 }else{
-    console.log("Number is null!")
+    console.log("Number is null !")
 }
