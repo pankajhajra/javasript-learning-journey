@@ -15,6 +15,6 @@ switch(color){
         break;
         
         default :
-        console.log("Broken Light !");
+        console.log("Broken  Light !");
         
 }
